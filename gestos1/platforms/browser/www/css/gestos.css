@@ -1,0 +1,36 @@
+body {
+	background-color: #8eadc5;
+}
+
+.claro {
+	background-color: #8de1bd;
+}
+
+.oscuro {
+	background-color: #577a76;
+}
+
+button {
+	background-color: #7fba67;
+	color: #fff;
+	border: none;
+	padding: 30px;
+	font-size: 1em;
+	margin-top: 10px;
+	width: 100%;	
+}
+
+#zona-gestos {
+  background-color: #7fba67;
+  width: 100%;
+  min-height: 300px;
+  margin-top: 10px;
+  display: block;
+}
+
+#info {
+  color: #fff;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-size: 2em;
+}
